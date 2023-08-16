@@ -1,5 +1,8 @@
 <h1 align="center">Aplicação de MatrizFrame em Python</h1>
 
+
+__Fiz algumas pequenas alteraões__
+
 <p align="center"></p>
 
 Importação de bibliotecas:
